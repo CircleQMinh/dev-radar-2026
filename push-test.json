@@ -1,0 +1,5 @@
+{
+  "purpose": "Verify direct push access to the main branch",
+  "created_on": "2026-10-16",
+  "test": true
+}
